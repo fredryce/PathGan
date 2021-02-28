@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 07/15/19 14:04:49 by Eclipse SUMO polyconvert Version v1_0_1+0383-8ba62d898b
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value=".\london-seg4\london-seg4.net.xml"/>
+        <osm-files value=".\london-seg4\london-seg4.osm"/>
+        <type-file value="osm.typ.xml"/>
+    </input>
+
+    <output>
+        <output-file value=".\london-seg4\london-seg4.poly.xml"/>
+    </output>
+
+    <processing>
+        <poi-layer-offset value="5"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <location netOffset="-695856.77,-5707278.62" convBoundary="0.00,0.00,8386.04,6453.29" origBoundary="-0.176478,51.480861,-0.057695,51.539079" projParameter="+proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    <poly id="102258931" type="building" color="yellow" fill="1" layer="-1.00" shape="3901.411213,4099.124845 3912.969361,4060.360894 3917.195723,4046.184853 3895.035101,4040.323685 3887.760494,4038.400386 3883.444931,4037.373066 3877.804669,4035.759102 3872.964916,4034.811375 3870.288360,4035.563442 3861.961429,4048.019143 3847.935958,4068.991870 3881.146061,4090.298376 3901.411213,4099.124845"/>
+    <poly id="139726517" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="3573.025216,2417.949420 3588.183456,2418.801049"/>
+    <poly id="216998718" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="3837.779660,2176.151812 4031.710458,2172.792978"/>
+    <poly id="2876749" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="4044.511032,4515.770830 4034.513161,4539.785823 4025.519697,4561.936241 4023.682407,4564.313652 4020.072371,4573.424987"/>
+    <poly id="349937184" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="3072.424056,2690.342033 3086.589903,2699.293223 3178.021836,2755.580939 3193.373704,2764.935287 3312.089792,2840.757977"/>
+    <poly id="3727760" type="historic" color="128,255,128" fill="0" layer="-1.00" shape="5660.948741,3634.849626 5719.218236,3623.778848 5751.211600,3616.686920"/>
+    <poly id="4376580" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="3019.091259,3234.738823 3018.032385,3241.723702 3021.539073,3248.163695 3025.363241,3249.516166"/>
+    <poly id="542471105" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="3025.363241,3249.516166 3026.050708,3250.767989 3043.880943,3283.191221 3047.002487,3287.578382 3058.421367,3303.637624 3078.980042,3326.357746 3096.156204,3341.774218 3122.641197,3363.435175 3178.896325,3404.648192 3184.181448,3408.429916 3187.630675,3410.480475 3205.717822,3421.256253 3237.088477,3441.272182"/>
+    <poly id="542471106" type="tourism" color="207,245,201" fill="0" layer="-2.00" shape="3025.363241,3249.516166 3027.583533,3246.051015 3024.570835,3239.062476 3019.091259,3234.738823"/>
+    <poi id="1169595120" type="parking" color="184,184,179" layer="4.00" x="4937.72" y="6092.26"/>
+    <poi id="1203623751" type="parking" color="184,184,179" layer="4.00" x="6756.02" y="3163.21"/>
+    <poi id="1207750513" type="parking" color="184,184,179" layer="4.00" x="913.85" y="1134.49"/>
+    <poi id="1233349529" type="natural" color="140,196,107" layer="1.00" x="3049.84" y="781.31"/>
+    <poi id="1238300853" type="parking" color="184,184,179" layer="4.00" x="7018.37" y="4467.65"/>
+    <poi id="1276385668" type="shop" color="255,153,26" layer="4.00" x="973.53" y="1102.01"/>
+    <poi id="1312190793" type="parking" color="184,184,179" layer="4.00" x="3646.72" y="5038.62"/>
+    <poi id="1360237597" type="parking" color="184,184,179" layer="4.00" x="1448.53" y="1967.89"/>
+    <poi id="1409010786" type="parking" color="184,184,179" layer="4.00" x="1393.33" y="3569.76"/>
+    <poi id="1493486654" type="parking" color="184,184,179" layer="4.00" x="3598.77" y="1829.32"/>
+    <poi id="1590148307" type="parking" color="184,184,179" layer="4.00" x="7237.55" y="3358.58"/>
+    <poi id="1697772135" type="historic" color="128,255,128" layer="4.00" x="4530.44" y="3624.50"/>
+    <poi id="1735694566" type="natural" color="140,196,107" layer="1.00" x="6177.85" y="1194.07"/>
+    <poi id="1782919561" type="building" color="yellow" layer="4.00" x="2556.66" y="1882.94"/>
+    <poi id="2079674503" type="historic" color="128,255,128" layer="4.00" x="7106.42" y="2817.91"/>
+    <poi id="2079674503#1" type="tourism" color="207,245,201" layer="3.00" x="7106.42" y="2817.91"/>
+    <poi id="2135411292" type="parking" color="184,184,179" layer="4.00" x="5520.56" y="4196.76"/>
+    <poi id="2496856287" type="parking" color="184,184,179" layer="4.00" x="755.49" y="4152.66"/>
+    <poi id="2502516624" type="parking" color="184,184,179" layer="4.00" x="5663.74" y="4095.43"/>
+    <poi id="2502573435" type="parking" color="184,184,179" layer="4.00" x="3568.90" y="4687.52"/>
+    <poi id="25496842" type="parking" color="184,184,179" layer="4.00" x="4625.78" y="2800.79"/>
+    <poi id="26846355" type="parking" color="184,184,179" layer="4.00" x="3319.80" y="3431.22"/>
+    <poi id="298917254" type="parking" color="184,184,179" layer="4.00" x="454.40" y="4430.46"/>
+    <poi id="298917264" type="parking" color="184,184,179" layer="4.00" x="481.47" y="4220.26"/>
+    <poi id="302410258" type="parking" color="184,184,179" layer="4.00" x="698.53" y="4502.10"/>
+    <poi id="3059855778" type="parking" color="184,184,179" layer="4.00" x="1329.52" y="2175.84"/>
+    <poi id="32921723" type="parking" color="184,184,179" layer="4.00" x="4733.99" y="3630.07"/>
+    <poi id="355416895" type="parking" color="184,184,179" layer="4.00" x="5247.92" y="4210.21"/>
+    <poi id="368044118" type="parking" color="184,184,179" layer="4.00" x="5362.06" y="3455.39"/>
+    <poi id="371400554" type="leisure" color="77,255,77" layer="3.00" x="3785.38" y="3842.96"/>
+    <poi id="377017791" type="parking" color="184,184,179" layer="4.00" x="3414.53" y="5775.25"/>
+    <poi id="448513051" type="parking" color="184,184,179" layer="4.00" x="1399.53" y="1720.75"/>
+    <poi id="534993859" type="parking" color="184,184,179" layer="4.00" x="3784.50" y="3808.44"/>
+    <poi id="5728908664" type="parking" color="184,184,179" layer="4.00" x="2992.45" y="1964.56"/>
+    <poi id="6173783040" type="parking" color="184,184,179" layer="4.00" x="3584.87" y="3234.05"/>
+    <poi id="6239275279" type="parking" color="184,184,179" layer="4.00" x="2170.47" y="4003.68"/>
+    <poi id="6357452696" type="parking" color="184,184,179" layer="4.00" x="1284.18" y="3840.86"/>
+    <poi id="6364655537" type="parking" color="184,184,179" layer="4.00" x="1003.69" y="4116.90"/>
+    <poi id="6386014094" type="parking" color="184,184,179" layer="4.00" x="808.00" y="4124.55"/>
+    <poi id="6386014099" type="parking" color="184,184,179" layer="4.00" x="827.99" y="4104.88"/>
+    <poi id="6387073539" type="parking" color="184,184,179" layer="4.00" x="806.52" y="4174.56"/>
+    <poi id="6387108534" type="parking" color="184,184,179" layer="4.00" x="936.44" y="4111.13"/>
+    <poi id="6434110135" type="parking" color="184,184,179" layer="4.00" x="1099.35" y="4756.18"/>
+    <poi id="6440045169" type="parking" color="184,184,179" layer="4.00" x="815.53" y="4645.37"/>
+    <poi id="6440045171" type="parking" color="184,184,179" layer="4.00" x="836.20" y="4587.69"/>
+    <poi id="6450179308" type="parking" color="184,184,179" layer="4.00" x="927.32" y="4842.75"/>
+    <poi id="648861195" type="parking" color="184,184,179" layer="4.00" x="5321.40" y="2598.83"/>
+    <poi id="710656926" type="parking" color="184,184,179" layer="4.00" x="5272.04" y="4216.84"/>
+    <poi id="761831040" type="parking" color="184,184,179" layer="4.00" x="4800.06" y="3562.25"/>
+    <poi id="850686802" type="tourism" color="207,245,201" layer="3.00" x="3075.80" y="1017.20"/>
+    <poi id="894693857" type="parking" color="184,184,179" layer="4.00" x="1324.78" y="3833.55"/>
+    <poi id="915410120" type="parking" color="184,184,179" layer="4.00" x="4529.02" y="2858.00"/>
+    <poi id="915410131" type="building" color="yellow" layer="4.00" x="4502.17" y="2888.48"/>
+    <poi id="928074443" type="parking" color="184,184,179" layer="4.00" x="1010.27" y="4835.33"/>
+    <poi id="948928292" type="parking" color="184,184,179" layer="4.00" x="4130.52" y="4635.65"/>
+    <poi id="972535418" type="parking" color="184,184,179" layer="4.00" x="1365.46" y="3805.30"/>
+</additional>

@@ -1,0 +1,19 @@
+<!-- 
+	This file contains settings for the GUI.
+-->
+<viewsettings>
+	<!-- 
+		This value adds an additional wait between TraCI ticks.
+		Increase this value to increase time between ticks on small scale simulations
+		 and decrease this value as the simulation becomes more complex.
+		A lover value means the simulation will happen quicker.
+	-->
+    <delay value="50"/>
+	<!--
+		This adjusts the presentation of the SUMO simulation.
+			- "real world" << Cars and green grass. Marked lanes.
+			- "standard" << White BG, triangle cars. Marked lanes.
+			- "faster standard" << White BG, triangle cars. Low quality lanes.
+	-->
+	<scheme name="real world"/>
+</viewsettings>

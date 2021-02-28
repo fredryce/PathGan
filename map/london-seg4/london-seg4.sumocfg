@@ -1,0 +1,10 @@
+<configuration> 
+    <input> 
+        <net-file value="london-seg4.net.xml" /> 
+        <route-files value="london-seg4.rou.xml" /> 
+    </input> 
+    <time> 
+        <begin value="0" /> 
+        <end value="300000" /> 
+    </time> 
+</configuration> 

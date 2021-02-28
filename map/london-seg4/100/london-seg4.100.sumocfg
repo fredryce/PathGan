@@ -1,0 +1,13 @@
+<configuration>
+	<input>
+		<net-file value="london-seg4.100.net.xml" />
+		<route-files value="london-seg4.100.rou.xml" />
+	</input>
+	<time>
+		<begin value="0" />
+		<end value="3000000" />
+	</time>
+	<settings>
+		<grid-dimension rows="52" cols="52" />
+	</settings>
+</configuration>
