@@ -3,10 +3,10 @@ from matplotlib import pyplot as plt
 from xml.dom import minidom
 import math
 import numpy as np
-import pandas
+import pandas as pd
 
 
-MAP_XML = "./../map/london-seg4/100/london-seg4.100.sumocfg"
+MAP_XML = "./../map/london-seg4/london-seg4.sumocfg"
 
 from networkxbuild import NXSUMO
 
@@ -79,5 +79,5 @@ class MapData(object):
 
 if __name__ == "__main__":
 	map_value = MapData()
-	map_value.parse_map(csv_format=False, show=True)
+	map_value.parse_map(csv_format=True, show=True)
 	#map_value.sumonet.show()
